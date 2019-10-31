@@ -3,20 +3,7 @@ Bla-bla-bla...
 And other words
 Of this strange song...
 
-dfdsfsg
-sdf
-
------------------
-
-
-One more couplet 
-was added
-in feature branch!
-
-
-And another one couple
-In branch
-
-----
-feature edits 
-in text song
+Third couple in feature brunch
+Bla-bla-bla
+bla-bla
+bla
